@@ -114,6 +114,17 @@
                                     "attributes":  {
 
                                                    }
+                                },
+                                {
+                                    "id":  "b28b253f-4b2f-4e34-bb70-39c226fdbb3a",
+                                    "name":  "APPLICATION_SUPER_ADMIN",
+                                    "description":  "First application user with self-hosted application administration access",
+                                    "composite":  false,
+                                    "clientRole":  false,
+                                    "containerId":  "a7722c08-f192-405f-a758-ff759fa646e6",
+                                    "attributes":  {
+
+                                                   }
                                 }
                             ],
                   "client":  {
